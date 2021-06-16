@@ -1,0 +1,18 @@
+Stats
+-Hunger
+-Fuel
+-Horniness
+-Money
+-Joy
+-Personal Health
+-Truck Health
+
+
+Use command to display:
+-All stats
+-Miles to destination/Total Miles
+-Miles traveled
+
+
+Game goes by a series of events that trigger every once in a while. (Perhaps with each useage of fuel)
+Events vary based on weather and location. (Location figured out based on total miles traveled)
